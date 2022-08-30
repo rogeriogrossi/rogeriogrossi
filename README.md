@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rogério Grossi
 - 👀 I’m interested in data science and machine learing
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Python, R and SQL
 
 
 <!---
